@@ -8,6 +8,11 @@
 		table {
 			border-collapse : initial !important;
 		}
+		
+		ol.c16  {
+			margin-top: 10px;
+		}
+		
 		#stickingMenu {
 			position : fixed;
 			top : 0;
@@ -2436,11 +2441,10 @@
         .c19 {
             height: 43pt
         }
-        
-        .c26 {
-            color : red;
-			
-        }
+		
+		.c26{
+			color : #ff7832;
+		}
         
         .c10 {
             color: #38761d
