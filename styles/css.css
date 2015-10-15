@@ -2071,6 +2071,26 @@
             border-bottom-style: solid
         }
         
+		
+		.milestones {
+            border-right-style: solid;
+            padding: 19.8pt 19.8pt 19.8pt 19.8pt;
+            border-bottom-color: #ffffff;
+            border-top-width: 0pt;
+            border-right-width: 0pt;
+            border-left-color: #ffffff;
+            vertical-align: top;
+            border-right-color: #ffffff;
+            border-left-width: 0pt;
+            border-top-style: solid;
+            background-color: #dedbbb;
+            border-left-style: solid;
+            border-bottom-width: 0pt;
+            width: 243pt;
+            border-top-color: #ffffff;
+            border-bottom-style: solid
+        }
+		
         .c43 {
             border-right-style: solid;
             padding: 19.8pt 19.8pt 19.8pt 19.8pt;

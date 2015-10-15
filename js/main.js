@@ -120,7 +120,7 @@ var config = {
 };
 
 config.domReady(function() {
-	config.instance = new config.animationConstruct([document.querySelectorAll('tr[class=c36] td[class*=c43]')[0], document.querySelectorAll('tr[class=c36] td[class*=c8]')[1] ], document.querySelectorAll('tr[class=c56] td[class*=c64]')[0]);
+	config.instance = new config.animationConstruct([document.querySelectorAll('tr[class=c36] .milestones')[0]], document.querySelectorAll('tr[class=c56] td[class*=c64]')[0]);
 	config.instance.init();
 	config.eventsBinder(document, config.instance.mousewheelEvt, config.instance.handler);
 	config.eventsBinder(document, 'keyup', config.instance.handler);
