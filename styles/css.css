@@ -9,6 +9,10 @@
 			border-collapse : initial !important;
 		}
 		
+		.selfStudy {
+			color: #70588e;
+		}
+		
 		ol.c16  {
 			margin-top: 10px;
 		}
